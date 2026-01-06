@@ -1,0 +1,23 @@
+# Build artifacts
+/target/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project documentation (agent files)
+claude.md
+status.md
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
