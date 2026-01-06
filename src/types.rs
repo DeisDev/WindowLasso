@@ -6,10 +6,10 @@ use serde::{Deserialize, Serialize};
 pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 
 /// GitHub repository URL
-pub const GITHUB_URL: &str = "https://github.com/windowlasso/windowlasso";
+pub const GITHUB_URL: &str = "https://github.com/DeisDev/WindowLasso";
 
 /// GitHub issues URL
-pub const ISSUES_URL: &str = "https://github.com/windowlasso/windowlasso/issues";
+pub const ISSUES_URL: &str = "https://github.com/DeisDev/WindowLasso/issues";
 
 /// Information about a window
 #[derive(Debug, Clone, PartialEq)]
